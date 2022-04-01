@@ -119,13 +119,21 @@
             }
         ],
         "ssd": [
-            { "name": "Samsung 870", "storage": "1 TB", "company": "Samsung", "price": "120" },
-            { "name": "Kingston SSDNow A400", "storage": "960 GB", "company": "Kingston", "price": "90" }
+            { "name": "Samsung 870", "typeItem": "ssd", "storage": "1 TB", "company": "Samsung", "price": "120" },
+            {
+                "name": "Kingston SSDNow A400",
+                "typeItem": "ssd",
+                "storage": "960 GB",
+                "company": "Kingston",
+                "price": "90"
+            }
         ],
         "motherboard": [
             {
                 "name": "MSI PRO Z690-P",
                 "price": "120",
+                "typeItem": "motherboard",
+                "company": "MSI",
                 "RAM_Technology": "DDR4",
                 "socket": "1700",
                 "imgs": [
@@ -136,6 +144,8 @@
             {
                 "name": "MSI B450 TOMAHAWK MAX",
                 "price": "150",
+                "typeItem": "motherboard",
+                "company": "MSI",
                 "RAM_Technology": "DDR4",
                 "socket": "AM4",
                 "imgs": [
@@ -146,6 +156,8 @@
             {
                 "name": "MSI MPG Z690",
                 "price": "450",
+                "typeItem": "motherboard",
+                "company": "MSI",
                 "RAM_Technology": "DDR5",
                 "socket": "1700",
                 "imgs": [
@@ -158,6 +170,8 @@
             {
                 "name": "Corsair Vengeance RGB PRO",
                 "price": "110",
+                "typeItem": "RAM",
+                "company": "Corsair",
                 "RAM_Technology": "DDR4",
                 "memorySize": "16gb",
                 "memorySpeed": "3200 MHz",
@@ -168,8 +182,10 @@
             },
             {
                 "name": "Crucial Ballistix",
-                "price": "100",
                 "RAM_Technology": "DDR4",
+                "price": "100",
+                "company": "Crucial",
+                "typeItem": "RAM",
                 "memorySize": "16gb",
                 "memorySpeed": "3200 MHz",
                 "imgs": [
@@ -180,6 +196,9 @@
             {
                 "name": "Kingston FURY Beast",
                 "RAM_Technology": "DDR5",
+                "price": "220",
+                "company": "Kingston",
+                "typeItem": "RAM",
                 "memorySize": "16gb",
                 "memorySpeed": "5200 MHz",
                 "imgs": [
