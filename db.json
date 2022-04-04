@@ -78,8 +78,7 @@
                     "https://m.media-amazon.com/images/I/61vGQNUEsGL._AC_SL1384_.jpg",
                     "https://m.media-amazon.com/images/I/71ysjv7XS7L._AC_SL1500_.jpg"
                 ],
-                "socket": "AM4",
-                "characteristics": [{ "CPU_Speed": "3.7 GHz", "processorCount": "6" }]
+                "characteristics": [{ "CPU_Speed": "3.7 GHz" }, { "socket": "AM4" }, { "processorCount": "6" }]
             },
             {
                 "name": "AMD Ryzen 7 5800X",
@@ -90,8 +89,7 @@
                     "https://m.media-amazon.com/images/I/61DYLoyNRWL._AC_SL1384_.jpg",
                     "https://m.media-amazon.com/images/I/610Rt4BtEWL._AC_SL1500_.jpg"
                 ],
-                "socket": "AM4",
-                "characteristics": [{ "CPU_Speed": "3.8 GHz", "processorCount": "8" }]
+                "characteristics": [{ "CPU_Speed": "3.8 GHz" }, { "processorCount": "8" }, { "socket": "AM4" }]
             },
             {
                 "name": "Intel Core i5-12600K",
@@ -102,8 +100,7 @@
                     "https://m.media-amazon.com/images/I/71Ahm5CD6XL._AC_SL1500_.jpg",
                     "https://m.media-amazon.com/images/I/81HHUoojJ6L._AC_SL1500_.jpg"
                 ],
-                "socket": "1700",
-                "characteristics": [{ "CPU_Speed": "3.7 GHz", "processorCount": "6" }]
+                "characteristics": [{ "CPU_Speed": "3.7 GHz" }, { "processorCount": "6" }, { "socket": "1700" }]
             },
             {
                 "name": "Intel Core i7 11700K",
@@ -114,16 +111,24 @@
                     "https://m.media-amazon.com/images/I/71idAEIDhvL._AC_SL1500_.jpg",
                     "https://m.media-amazon.com/images/I/71yUcMSg7UL._AC_SL1500_.jpg"
                 ],
-                "socket": "1700",
-                "characteristics": [{ "CPU_Speed": "3.6 GHz", "processorCount": "8" }]
+                "characteristics": [
+                    {
+                        "CPU_Speed": "3.6 GHz",
+                        "processorCount": "8",
+                        "socket": "1700"
+                    }
+                ]
             }
         ],
         "ssd": [
             {
-                "name": "Samsung 870",
+                "name": "Samsung 870 QVO",
                 "typeItem": "ssd",
                 "characteristics": [{ "storage": "1 TB" }],
-
+                "imgs": [
+                    "https://m.media-amazon.com/images/I/91PA5sP5wNL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/81b1KTpw7pL._AC_SL1500_.jpg"
+                ],
                 "company": "Samsung",
                 "price": "120"
             },
@@ -131,7 +136,10 @@
                 "name": "Kingston SSDNow A400",
                 "typeItem": "ssd",
                 "characteristics": [{ "storage": "960 GB" }],
-
+                "imgs": [
+                    "https://m.media-amazon.com/images/I/91RL+MhTWbL._AC_SL1500_.jpg",
+                    "https://m.media-amazon.com/images/I/912Ya5k32eL._AC_SL1500_.jpg"
+                ],
                 "company": "Kingston",
                 "price": "90"
             }
@@ -142,12 +150,7 @@
                 "price": "120",
                 "typeItem": "motherboard",
                 "company": "MSI",
-                "characteristics": [
-                    {
-                        "RAM_Technology": "DDR4",
-                        "socket": "1700"
-                    }
-                ],
+                "characteristics": [{ "RAM_Technology": "DDR4" }, { "socket": "1700" }],
                 "imgs": [
                     "https://m.media-amazon.com/images/I/81Rme1ItgAL._AC_SL1500_.jpg",
                     "https://m.media-amazon.com/images/I/91lD5GFfV5L._AC_SL1500_.jpg"
