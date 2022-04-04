@@ -3,7 +3,7 @@
         "videoCards": [
             {
                 "name": "rtx 3060-ti",
-                "price": "1000",
+                "price": 1000,
                 "typeItem": "videoCard",
                 "manufacturer": "Palit",
                 "company": "NVidia",
@@ -16,7 +16,7 @@
             },
             {
                 "name": "rtx 3060 msi gaming X 12G",
-                "price": "850",
+                "price": 850,
                 "typeItem": "videoCard",
                 "manufacturer": "MSI",
                 "company": "NVidia",
@@ -29,7 +29,7 @@
 
             {
                 "name": "RX 6600 EAGLE 8GB",
-                "price": "850",
+                "price": 850,
                 "typeItem": "videoCard",
                 "manufacturer": "Gigabyte",
                 "company": "AMD",
@@ -41,7 +41,7 @@
             },
             {
                 "name": "RX 6700 XT MECH 2X 12G",
-                "price": "1000",
+                "price": 1000,
                 "typeItem": "videoCard",
                 "manufacturer": "MSI",
                 "company": "AMD",
@@ -56,7 +56,7 @@
             {
                 "name": "AMD Ryzen 5 5600X",
                 "typeItem": "processor",
-                "price": "350",
+                "price": 350,
                 "company": "AMD",
                 "imgs": [
                     "https://m.media-amazon.com/images/I/61vGQNUEsGL._AC_SL1384_.jpg",
@@ -67,7 +67,7 @@
             {
                 "name": "AMD Ryzen 7 5800X",
                 "typeItem": "processor",
-                "price": "450",
+                "price": 450,
                 "company": "AMD",
                 "imgs": [
                     "https://m.media-amazon.com/images/I/61DYLoyNRWL._AC_SL1384_.jpg",
@@ -78,7 +78,7 @@
             {
                 "name": "Intel Core i5-12600K",
                 "typeItem": "processor",
-                "price": "350",
+                "price": 350,
                 "company": "Intel",
                 "imgs": [
                     "https://m.media-amazon.com/images/I/71Ahm5CD6XL._AC_SL1500_.jpg",
@@ -89,7 +89,7 @@
             {
                 "name": "Intel Core i7 11700K",
                 "typeItem": "processor",
-                "price": "450",
+                "price": 450,
                 "company": "Intel",
                 "imgs": [
                     "https://m.media-amazon.com/images/I/71idAEIDhvL._AC_SL1500_.jpg",
@@ -114,7 +114,7 @@
                     "https://m.media-amazon.com/images/I/81b1KTpw7pL._AC_SL1500_.jpg"
                 ],
                 "company": "Samsung",
-                "price": "120"
+                "price": 120
             },
             {
                 "name": "Kingston SSDNow A400",
@@ -125,13 +125,13 @@
                     "https://m.media-amazon.com/images/I/912Ya5k32eL._AC_SL1500_.jpg"
                 ],
                 "company": "Kingston",
-                "price": "90"
+                "price": 90
             }
         ],
         "motherboard": [
             {
                 "name": "MSI PRO Z690-P",
-                "price": "120",
+                "price": 120,
                 "typeItem": "motherboard",
                 "company": "MSI",
                 "characteristics": [{ "RAM_Technology": "DDR4", "socket": "1700" }],
@@ -142,7 +142,7 @@
             },
             {
                 "name": "MSI B450 TOMAHAWK MAX",
-                "price": "150",
+                "price": 150,
                 "typeItem": "motherboard",
                 "company": "MSI",
                 "characteristics": [{ "RAM_Technology": "DDR4", "socket": "AM4" }],
@@ -153,7 +153,7 @@
             },
             {
                 "name": "MSI MPG Z690",
-                "price": "450",
+                "price": 450,
                 "typeItem": "motherboard",
                 "company": "MSI",
 
@@ -167,7 +167,7 @@
         "RAMs": [
             {
                 "name": "Corsair Vengeance RGB PRO",
-                "price": "110",
+                "price": 110,
                 "typeItem": "RAM",
                 "company": "Corsair",
                 "characteristics": [{ "memorySize": "16gb", "RAM_Technology": "DDR4", "memorySpeed": "3200 MHz" }],
@@ -178,7 +178,7 @@
             },
             {
                 "name": "Crucial Ballistix",
-                "price": "100",
+                "price": 100,
                 "company": "Crucial",
                 "typeItem": "RAM",
                 "characteristics": [{ "memorySize": "16gb", "RAM_Technology": "DDR4", "memorySpeed": "3200 MHz" }],
@@ -191,7 +191,7 @@
             {
                 "name": "Kingston FURY Beast",
                 "RAM_Technology": "DDR5",
-                "price": "220",
+                "price": 220,
                 "company": "Kingston",
                 "characteristics": [{ "memorySpeed": "5200 MHz", "memorySize": "16gb", "typeItem": "RAM" }],
                 "imgs": [
