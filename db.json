@@ -21,8 +21,8 @@
                 "manufacturer": "MSI",
                 "company": "NVidia",
                 "imgs": [
-                    "https://cdn.mos.cms.futurecdn.net/5xUwsjzTJefR4wEmEianNP.jpg",
-                    "https://cdn.thepcenthusiast.com/wp-content/uploads/2021/03/msi-rtx-3060-gaming-x-front.jpg"
+                    "https://m.media-amazon.com/images/I/712ndLtqotS._AC_SL1500_.jpg",
+                    "https://cdn.mos.cms.futurecdn.net/5xUwsjzTJefR4wEmEianNP.jpg"                 
                 ],
                 "characteristics": [{ "memory": "12 GB", "memoryClockSpeed": "1837 MHz", "GPU_ClockSpeed": "1837 MHz" }]
             },
