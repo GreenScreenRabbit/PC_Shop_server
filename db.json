@@ -193,7 +193,7 @@
                 "price": 220,
                 "typeItem": "RAM",
                 "company": "Kingston",
-                "characteristics": [{ "memorySize": "16gb","RAM_Technology": "DDR5", "memorySpeed": "5200 MHz", }],
+                "characteristics": [{ "memorySize": "16gb","RAM_Technology": "DDR5", "memorySpeed": "5200 MHz" }],
                 "imgs": [
                     "https://m.media-amazon.com/images/I/61nNPcOF-BL._AC_SL1500_.jpg",
                     "https://m.media-amazon.com/images/I/611n3F+AQJL._AC_SL1500_.jpg"
